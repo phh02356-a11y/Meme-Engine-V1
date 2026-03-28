@@ -36,4 +36,4 @@ pip install meme-engine-v1
 Community & Links
 Twitter: [Pending]
 
-Paper: Integrated Whitepaper in /docs
+Paper: [Internal Access Only - Available on Mainnet Launch]
