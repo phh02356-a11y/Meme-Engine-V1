@@ -36,4 +36,4 @@ pip install meme-engine-v1
 Community & Links
 Twitter: [Pending]
 
-Paper: [Internal Access Only - Available on Mainnet Launch]
+**Paper:** [Access Restricted] Integrated Research Paper available post-launch.
