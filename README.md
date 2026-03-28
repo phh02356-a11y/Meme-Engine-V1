@@ -33,7 +33,15 @@ Audition: Analyzes social sentiment through audio-visual cues.
 
 Language: Synthesizes the core narrative of the meme.
 pip install meme-engine-v1
-Community & Links
+##Community & Links
 Twitter: [Pending]
 
 **Paper:** [Access Restricted] Integrated Research Paper available post-launch.
+Language: Synthesizes the core narrative of the meme.
+
+```bash
+pip install meme-engine-v1
+Community & Links
+Twitter: [Pending]
+
+Paper: [Access Restricted] Integrated Research Paper available post-launch.
