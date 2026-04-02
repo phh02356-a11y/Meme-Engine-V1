@@ -1,11 +1,13 @@
 # PUMP-X: High-Speed Automated Trading Bot for Solana
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Network-Solana_Mainnet-blue" alt="Network">
-  <img src="https://img.shields.io/badge/Platform-pump.fun-green" alt="Platform">
-  <img src="https://img.shields.io/badge/Aggregator-Jupiter-yellow" alt="Jupiter">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
-</p>
+LIBERATION (LIBD) is a Solana-based meme token 
+commemorating the one-year anniversary of Trump's 
+"Liberation Day" tariff declaration on April 2, 2025 — 
+the day that shook global markets, triggered a Supreme 
+Court ruling, and became one of the most talked-about 
+economic events in modern history.
+
+Built on pump.fun. Powered by chaos. 🦅
 
 ---
 
